@@ -1,4 +1,4 @@
-.TH man 1 "28 Nov 2019" "0.1" "simple_shell man page"
+.TH man 1 " 26 oct 2023" "0.1" "simple_shell man page"
 
 .SH NAME
 .B simple_shell
@@ -38,4 +38,4 @@ $ ls -l
 Single space required after argument.
 
 .SH AUTHOR
-Camilo Baquero, Sergio Pietri.
+ Saif eddine belhaj.
