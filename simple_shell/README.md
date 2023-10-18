@@ -4,7 +4,6 @@
 ![shell](/shell.png)
 
 ---
-
 ## Table of contents
 
 - **What is the shell?**
